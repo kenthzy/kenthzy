@@ -4,22 +4,26 @@
 <div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
   <div style="text-align: left;">
 
-<h5>INTEREST</h5>
+<h3>INTEREST</h3>
 
 <ul>
   <li>Hardware & Electronics</li>
   <li>Networking Systems</li>
   <li>Mobile & Web Development</li>
 </ul>
+    
 
-<h4>Connect with me</h4>
+    
+<h3>Connect with me</h3>
 
 <p>
   <a href="https://twitter.com/kenthgnzls"><img src="https://img.shields.io/twitter/follow/kenthgnzls?logo=twitter&style=for-the-badge" alt="kenthgnzls" /></a>
   <a href="https://instagram.com/kenthgnzls"><img src="https://img.shields.io/badge/-kenthgnzls-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kenthgnzls/" alt="kenthgnzls"/></a>
 </p>
-
-<h4>Programming Languages</h4>
+    
+-------------------------------------------
+    
+<h3>Programming Languages</h3>
 
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -33,9 +37,10 @@
 </p>
   </div>
   
-</div>
+-------------------------------------------
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kenthzy&theme=dark" alt="My Stats"/>
+  <h5> PROFILE VISITS:
+  <br>
   <br>
   <img src="https://profile-counter.glitch.me/{kenthzy}/count.svg"/>
 </p>
