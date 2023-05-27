@@ -8,7 +8,7 @@
 
 <ul>
   <li>Hardware & Electronics</li>
-  <li>Networking Systems</li>
+  <li>Network & Systems</li>
   <li>Mobile & Web Development</li>
 </ul>
     
