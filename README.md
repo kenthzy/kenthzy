@@ -9,8 +9,9 @@
 
 <ul>
   <li>Hardware & Electronics</li>
-  <li>Network & Systems</li>
+  <li>Network & Cloud Services</li>
   <li>Mobile & Web Development</li>
+  <li>System & Software Development</li>
 </ul>
     
 
