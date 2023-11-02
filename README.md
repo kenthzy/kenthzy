@@ -1,5 +1,5 @@
 <div class="center-image">
-  <img src="https://github.com/kenthzy/kenthzy/assets/122461133/0fb4c424-115c-4b60-8e85-1c80f3f07c5e">
+  <img src="https://github.com/kenthzy/kenthzy/assets/122461133/b72db3f7-b0f5-4057-88ed-e3da73e90d89">
   
 </div>
 <div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
