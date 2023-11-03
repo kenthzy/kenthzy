@@ -41,3 +41,4 @@
   <br>
   <img src="https://profile-counter.glitch.me/{kenthzy}/count.svg"/>
 </p>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kenthzy&layout=compact&theme=radical" alt ="https://github.com/kenthzy/github-readme-stats"/>
