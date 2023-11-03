@@ -19,6 +19,7 @@
 <h3>Connect with me</h3>
 
 <p>
+  <a href="https://www.linkedin.com/in/gonzales-kennethjearl-sacsi-059a57289/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/kenthgnzls"><img src="https://img.shields.io/twitter/follow/kenthgnzls?logo=twitter&style=for-the-badge" alt="kenthgnzls" /></a>
   <a href="https://www.instagram.com/3rdworldkg/"><img src="https://img.shields.io/badge/-3rdworldkg-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/3rdworldkg/" alt="3rdworldkg"/></a>
 </p>
