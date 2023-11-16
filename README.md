@@ -5,7 +5,7 @@
 <div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
   <div style="text-align: left;">
 
-<h3>INTEREST</h3>
+<h3>Interests</h3>
 
 <ul>
   <li>Hardware & Electronics</li>
