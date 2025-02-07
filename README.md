@@ -51,14 +51,14 @@ Currently, I’m expanding my skills in backend technologies like:
 
 # 
 
-Additionally, I’m exploring cloud solutions such as BaaS Cloud , to enhance data flow and unlock new possibilities 🌟.
+Additionally, I’m exploring cloud solutions such as BaaS Cloud , to enhance data flow and unlock new possibilities.
 
-![BaaS Cloud](https://img.shields.io/badge/BaaS_Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![BaaS Cloud](https://img.shields.io/badge/☁️_BaaS_Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
 # 
 
-I thrive in collaborative environments and am eager to contribute to challenging projects while continually expanding my knowledge base 🚀.
+I thrive in collaborative environments and am eager to contribute to challenging projects while continually expanding my knowledge base.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
