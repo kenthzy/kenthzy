@@ -1,46 +1,77 @@
-<div class="center-image">
-  <img src="https://github.com/kenthzy/kenthzy/assets/122461133/b72db3f7-b0f5-4057-88ed-e3da73e90d89">
-  
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/d51445a8-9ca0-44c6-ac57-3eec22e6bcfc" alt="Image" width="100">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=A811F7&width=435&lines=Hi+There%2C+I'm+Kenneth+Gonzales;Computer+Engineering+Student" alt="Typing SVG">
+  </a>
 </div>
-<div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
-  <div style="text-align: left;">
 
-<h3>Interests</h3>
+<br>
 
-<ul>
-  <li>Hardware & Electronics</li>
-  <li>Network & Cloud Services</li>
-  <li>Mobile & Web Development</li>
-  <li>System & Software Development</li>
-</ul>
-    
+![SOON TO BE ENGR. GONZALES!](https://img.shields.io/badge/SOON_TO_BE_ENGR._GONZALES-A811F7?style=for-the-badge&logo=font-awesome&logoColor=white)
 
-    
-<h3>Connect with me</h3>
+Connect with me!
 
-<p>
-  <a href="https://www.linkedin.com/in/gonzales-kennethjearl-sacsi-059a57289/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto: kenthgnzls@gmail.com">
-<img src="https://img.shields.io/badge/-kenthgnzls%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
-  <a href="https://twitter.com/kenthgnzls"><img src="https://img.shields.io/twitter/follow/kenthgnzls?logo=twitter&style=for-the-badge" alt="kenthgnzls" /></a>
-  <a href="https://www.instagram.com/3rdworldkg/"><img src="https://img.shields.io/badge/-3rdworldkg-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/3rdworldkg/" alt="3rdworldkg"/></a>
-</p>
-    
--------------------------------------------
-    
-<h3>Tools i work upon:</h3>
+![Gmail Icon](https://img.shields.io/badge/-kenthgnzls@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Instagram](https://img.shields.io/badge/kenthgnzls-pink?style=for-the-badge&logo=instagram&logoColor=black)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenthzy-blue?logo=linkedin&style=for-the-badge)
 
-<p>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-</p>
-  </div>
-  
--------------------------------------------
-<p>
+
+#
+ 
+  I enjoy programming and aspires to become a professional developer. I excel in building dynamic, responsive user interfaces using:
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+
+# 
+
+ I also use Figma and Canva to design intuitive and visually appealing web interfaces. 
+
+ ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+ ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+
+# 
+
+Currently, I’m expanding my skills in backend technologies like:
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+
+# 
+
+Additionally, I’m exploring cloud solutions such as BaaS Cloud , to enhance data flow and unlock new possibilities 🌟.
+
+![BaaS Cloud](https://img.shields.io/badge/BaaS_Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+
+# 
+
+I thrive in collaborative environments and am eager to contribute to challenging projects while continually expanding my knowledge base 🚀.
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+
+
+
+# 
+
   <h5> PROFILE VISITS:
+    
   <br>
   <br>
   <img src="https://profile-counter.glitch.me/{kenthzy}/count.svg"/>
-</p>
+
