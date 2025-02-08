@@ -11,9 +11,11 @@
 
 Connect with me!
 
-![Gmail Icon](https://img.shields.io/badge/-kenthgnzls@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/kenthgnzls-pink?style=for-the-badge&logo=instagram&logoColor=black)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenthzy-blue?logo=linkedin&style=for-the-badge)
+[![Gmail Icon](https://img.shields.io/badge/-kenthgnzls@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenthgnzls@gmail.com)  
+[![Instagram](https://img.shields.io/badge/kenthgnzls-FF69B4?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/kenthgnzls)
+[![LinkedIn](https://img.shields.io/badge/Kenthzy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenthzy)
+[![Behance](https://img.shields.io/badge/k3nnthzygnzls-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/k3nnthzygnzls)
+
 
 
 #
