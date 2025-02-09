@@ -7,8 +7,6 @@
 
 <br>
 
-![SOON TO BE ENGR. GONZALES!](https://img.shields.io/badge/SOON_TO_BE_ENGR._GONZALES-A811F7?style=for-the-badge&logo=font-awesome&logoColor=white)
-
 Connect with me!
 
 [![Gmail Icon](https://img.shields.io/badge/-kenthgnzls@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenthgnzls@gmail.com) [![Instagram](https://img.shields.io/badge/kenthgnzls-FF69B4?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/kenthgnzls)
