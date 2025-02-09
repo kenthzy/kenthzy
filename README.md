@@ -7,7 +7,7 @@
 
 #
 
-Connect with me!
+#### Connect with me!
 
 [![Gmail Icon](https://img.shields.io/badge/-kenthgnzls@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenthgnzls@gmail.com) [![Instagram](https://img.shields.io/badge/kenthgnzls-FF69B4?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/kenthgnzls)
 [![LinkedIn](https://img.shields.io/badge/Kenthzy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenthzy)
