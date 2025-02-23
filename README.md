@@ -12,6 +12,7 @@
 [![Gmail Icon](https://img.shields.io/badge/-kenthgnzls@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenthgnzls@gmail.com) [![Instagram](https://img.shields.io/badge/kenthgnzls-FF69B4?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/kenthgnzls)
 [![LinkedIn](https://img.shields.io/badge/Kenthzy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenthzy)
 [![Behance](https://img.shields.io/badge/k3nnthzygnzls-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/k3nnthzygnzls)
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/user-attachments/files/18931093/cv.pdf)
 
 
 
@@ -62,8 +63,6 @@ I thrive in collaborative environments and am eager to contribute to challenging
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-
 
 
 # 
