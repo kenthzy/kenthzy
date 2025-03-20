@@ -14,8 +14,6 @@
 [![Behance](https://img.shields.io/badge/k3nnthzygnzls-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/k3nnthzygnzls)
 [![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/user-attachments/files/18931093/cv.pdf)
 
-
-
 #
  
   I enjoy programming and aspires to become a professional developer. I excel in building dynamic, responsive user interfaces using:
@@ -48,13 +46,11 @@ Currently, I’m expanding my skills in backend technologies like:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
-
 # 
 
 Additionally, I’m exploring cloud solutions such as BaaS Cloud , to enhance data flow and unlock new possibilities.
 
 ![BaaS Cloud](https://img.shields.io/badge/☁️_BaaS_Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
 
 # 
 
@@ -64,11 +60,9 @@ I thrive in collaborative environments and am eager to contribute to challenging
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-
 # 
 
   <h5>  PROFILE VISITS:
   <br>
   <br>
   <img src="https://profile-counter.glitch.me/{kenthzy}/count.svg"/>
-
